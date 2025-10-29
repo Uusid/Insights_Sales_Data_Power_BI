@@ -16,7 +16,6 @@ Analyze shipping performance, discount impacts, and customer retention.
 Present all insights through an intuitive Power BI dashboard interface with consistent violet-themed visuals and sidebar navigation.
 
 
-![Screenshot 2025-10-30 002445](https://github.com/user-attachments/assets/d099c3cc-ec9a-49f1-9041-52462fc0a447)
 
 🗂 Dashboard Structure
 
@@ -41,6 +40,8 @@ Layout: Left sidebar navigation (vertical) with icons for each dashboard section
 Filters: Year and Month dropdown slicers for dynamic interactivity
 Visuals Used: KPI Cards, Bar/Column Charts, Donut Charts, Line Charts, Waterfall, Map, and Scatter Plots
 
+![Screenshot 2025-10-30 002445](https://github.com/user-attachments/assets/d099c3cc-ec9a-49f1-9041-52462fc0a447)
+![Screenshot 2025-10-30 002524](https://github.com/user-attachments/assets/1d037fd5-2d08-49f0-bbcb-d603ee23d770)
 
 
 ⚙️ Tools & Technologies
