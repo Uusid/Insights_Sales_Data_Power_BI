@@ -16,6 +16,7 @@ Analyze shipping performance, discount impacts, and customer retention.
 Present all insights through an intuitive Power BI dashboard interface with consistent violet-themed visuals and sidebar navigation.
 
 
+![Screenshot 2025-10-30 002445](https://github.com/user-attachments/assets/d099c3cc-ec9a-49f1-9041-52462fc0a447)
 
 🗂 Dashboard Structure
 
