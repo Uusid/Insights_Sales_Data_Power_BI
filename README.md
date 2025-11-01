@@ -67,5 +67,3 @@ Improved understanding of regional trends and customer behavior.
 Enhanced management visibility with real-time YoY growth and YTD tracking.
 
 
-Siddharth Pandit
-
